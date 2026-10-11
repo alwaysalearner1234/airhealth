@@ -36,9 +36,7 @@ https://d2m0b3oibu3wv6.cloudfront.net (AWS: S3 + CloudFront + Elastic Beanstalk 
 ![Airhealth my subscriptions](docs/screenshot-subscriptions.png)
 ![Airhealth subscriptions with alert](docs/screenshot3.png)
 
-### Landing hero (previous capture)
 
-![Airhealth screenshot](docs/screenshot.png)
 
 ## Features
 

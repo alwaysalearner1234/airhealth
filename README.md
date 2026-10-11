@@ -31,14 +31,18 @@ https://d2m0b3oibu3wv6.cloudfront.net (AWS: S3 + CloudFront + Elastic Beanstalk 
 ![Airhealth dashboard](docs/screenshot-dashboard.png)
 ![Airhealth dashboard with AQI details](docs/screenshot2.png)
 
+### Subscribing a searched place
+
+![Subscribing a searched place](docs/screenshot-subscribe-search.png)
+
 ### My subscriptions and notifications
 
 ![Airhealth my subscriptions](docs/screenshot-subscriptions.png)
 ![Airhealth subscriptions with alert](docs/screenshot3.png)
 
-### Landing hero (previous capture)
+### Editing a subscription
 
-![Airhealth screenshot](docs/screenshot.png)
+![Editing a subscription](docs/screenshot-subscription-edit.png)
 
 ## Features
 
